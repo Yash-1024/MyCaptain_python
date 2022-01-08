@@ -1,0 +1,17 @@
+.doc
+.docx
+.html
+.htm
+.odt
+.pdf
+.xls
+.xlsx
+.ods
+.ppt
+.pptx
+.txt
+.py
+.java
+.c
+.css 
+.json
